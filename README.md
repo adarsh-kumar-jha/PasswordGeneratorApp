@@ -1,6 +1,6 @@
 # Password Generator App
 
-![Password Generator App](app-screenshot.png)
+![Password Generator App](passwordGen.png)
 
 ## Table of Contents
 - [Description](#description)
